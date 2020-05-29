@@ -202,4 +202,4 @@ ConcurrentHashMap是Java并发包中提供的一个线程安全且高效的HashM
 
 JDK1.8的ConcurrentHashMap（TreeBin: 红黑二叉树节点 Node: 链表节点）：
 
-![https://github.com/dave0824/dave0824.github.io/blob/master/asset/collection/ConcurrentHashMap1.8.jpg?raw=true)
+![ConcurrentHashMap1.8](https://github.com/dave0824/dave0824.github.io/blob/master/asset/collection/ConcurrentHashMap1.8.jpg?raw=true)
